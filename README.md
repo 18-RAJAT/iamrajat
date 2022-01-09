@@ -1,4 +1,6 @@
 # iamrajat
 
 Hi there
-Rajat Joshi portfolio
+Rajat Joshi 
+language C++
+Framework is React js
